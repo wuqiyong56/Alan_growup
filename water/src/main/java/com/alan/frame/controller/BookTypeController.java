@@ -25,6 +25,7 @@ public class BookTypeController {
         List<BookType> uList = BookTypeService.getAllBookType();    
         model.addAttribute("uList", uList);    
         return "BookTypeList";
+        
     }    
         
 /*    @RequestMapping("/showBookType")    
