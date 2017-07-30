@@ -8,9 +8,7 @@
     <name>water Maven Webapp</name>    
     <url>http://maven.apache.org</url>
 
-	
-    
-      
+
     <!-- 用来设置版本号 -->    
     <properties>    
         <srping.version>4.0.2.RELEASE</srping.version>    

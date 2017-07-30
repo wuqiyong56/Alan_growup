@@ -25,5 +25,4 @@ public class BookTypeDAOImpl implements BookTypeDAO {
             session.close();
         }
     }
-
 }
